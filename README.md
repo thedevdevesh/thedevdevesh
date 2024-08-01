@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi there, I'm Devesh! 👋
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&rid=giphy.gif&ct=g" width="300" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&rid=giphy.gif&ct=g" width="290" />
 
 ### Full-Stack Ruby on Rails Developer | Software Development Enthusiast | Technophile
 
