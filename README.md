@@ -39,15 +39,15 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <p align="center">Let's Connect!</p>
 
-<a href="https://www.linkedin.com/in/thedevdevesh/" target="_blank">
+<a href="https://www.linkedin.com/in/thedevdevesh/" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://x.com/thedevdevesh" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+<a href="https://x.com/thedevdevesh" >
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/thedevdevesh/" target="_blank">
+<a href="https://www.instagram.com/thedevdevesh/" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
