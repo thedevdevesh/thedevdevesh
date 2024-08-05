@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Full-Stack Ruby on Rails Developer | Software Development Enthusiast | Technophile
 
-- 🔭 I’m currently working to become a Full Stack Developer
+- 🔭 I’m currently working to become a Full Stack Software Developer
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate with other developers
 - 📫 thedevdevesh@gmail.com
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://x.com/thedevdevesh" >
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/thedevdevesh/" >
